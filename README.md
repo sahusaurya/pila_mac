@@ -41,5 +41,5 @@ python play.py
 
 ## Credits
 
-- Original PILA project by Tryfonas Kamperis (@tryfonaskam)
-- macOS / Apple Silicon adaptation by Saurya Aditya Sahu (@sahusaurya)
+- Original PILA project by **[tryfonaskam](https://github.com/tryfonaskam)**
+- macOS / Apple Silicon adaptation by **[sahusaurya](https://github.com/sahusaurya)**
