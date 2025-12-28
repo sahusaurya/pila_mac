@@ -41,5 +41,8 @@ python play.py
 
 ## Credits
 
-- Original PILA project by **[tryfonaskam](https://github.com/tryfonaskam)**
-- macOS / Apple Silicon adaptation by **[sahusaurya](https://github.com/sahusaurya)**
+**[tryfonaskam](https://github.com/tryfonaskam)** — Project author and lead developer.
+Designed and implemented the original PILA imitation learning pipeline, including data capture, dataset organization, neural network architecture, training workflow, checkpointing, and real-time inference. Responsible for the initial model training, experimentation, documentation, and overall project execution.
+
+**[sahusaurya](https://github.com/sahusaurya)** — Project ideation and macOS / Apple Silicon pipeline implementation.
+Contributed to early project direction by helping identify PolyTrack as an appropriate environment for imitation learning and assisting with test environment setup. Additionally designed and implemented a macOS- and Apple Silicon–specific variant of the PILA pipeline, including a rewritten screen capture and input subsystem, canonical 512×512 preprocessing across data collection, training, and inference, Apple Silicon (MPS)–based training support, and independent model training and experimentation on macOS systems.
