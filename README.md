@@ -20,8 +20,6 @@ Below is a short demo of the trained PILA model autonomously playing the game af
 
 ![PILA Model Playing PolyTrack](assets/demo.gif)
 
-The above model was trained to play the browser game Polytrack - https://www.kodub.com/apps/polytrack
-
 ### Full Demonstration Video (Extended)
 
 For a longer, uninterrupted demonstration—including model stability and general behavior—watch the full video here:
@@ -29,6 +27,10 @@ For a longer, uninterrupted demonstration—including model stability and genera
 **▶ Full demo video:**  
 https://drive.google.com/file/d/1kZ5in9gRVzJvNwi8Tk2CXrAiEsIv1SD5/view?usp=sharing
 
+The above model was trained to play the browser game Polytrack - https://www.kodub.com/apps/polytrack
+
+- **Links to codes for custom tracks:** The tracks used in the data collection and training of the demo model, also bonus track to test your model's performance. 
+  https://drive.google.com/file/d/1NB21oUwMTrSWGSpEuNtEBiU2XWBSxJyj/view?usp=sharing
 ---
 
 ## Project Overview
@@ -127,8 +129,7 @@ The name of the model has to be pila_final.pt, since the path in play.py require
 ## Platform Support
 
 - **macOS:** This repository
-- **Windows:** Separate implementation available here:  
-  https://github.com/tryfonaskam/pila``/pila_windows
+- **Windows:** Separate implementation available here with my collaborator: https://github.com/tryfonaskam/pila
 
 The two repositories share the same conceptual architecture but differ in OS-specific input capture and control logic.
 
