@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1kZ5in9gRVzJvNwi8Tk2CXrAiEsIv1SD5/view?usp=shari
 The above model was trained to play the browser game Polytrack - https://www.kodub.com/apps/polytrack
 
 - **Links to codes for custom tracks:** The tracks used in the data collection and training of the demo model, also bonus track to test your model's performance. 
-  https://drive.google.com/file/d/1NB21oUwMTrSWGSpEuNtEBiU2XWBSxJyj/view?usp=sharing
+    https://drive.google.com/file/d/1uh0LjvTxMDzlmH9I-qnt5s-LfRqWL92b/view?usp=sharing
 ---
 
 ## Project Overview
