@@ -20,6 +20,7 @@ Below is a short demo of the trained PILA model autonomously playing the game af
 
 ![PILA Model Playing PolyTrack](assets/demo.gif)
 
+The above model was trained to play the browser game Polytrack - https://www.kodub.com/apps/polytrack
 
 ### Full Demonstration Video (Extended)
 
